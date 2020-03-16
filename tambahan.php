@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Penjumlahan PHP Database</title>
+	<title>Penjumlahan PHP</title>
 </head>
 <center><h1>Penjumlahan</h1></center>
 <body>
